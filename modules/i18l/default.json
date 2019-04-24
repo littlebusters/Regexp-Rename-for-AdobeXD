@@ -1,0 +1,9 @@
+{
+  "REGEX_RENAME_TITLE": "Regexp Rename",
+  "REGEX_RENAME_LABEL_FIND": "Find:",
+  "REGEX_RENAME_LABEL_REPLACE": "Replace:",
+  "REGEX_RENAME_LABEL_GLOBAL": "Global Match",
+  "REGEX_RENAME_LABEL_IGNORE": "Ignore Case",
+  "ALERT_NO_SELECTION_TITLE": "Object not selected",
+  "ALERT_NO_SELECTION_BODY": "Object is not selected. Please select Objects."
+}

@@ -1,0 +1,40 @@
+{
+  "summary" : "Rename objects with Regexp.",
+  "website" : "https://github.com/littlebusters/Regexp-Rename-for-AdobeXD",
+  "keywords" : [ "Regexp", "Rename" ],
+  "languages" : [ "en", "ja" ],
+  "author" : "littlebusters",
+  "description" : "Rename Objects(shape, artboard, text...) with Regular Expression.",
+  "helpUrl" : "https://github.com/littlebusters/Regexp-Rename-for-AdobeXD",
+  "main" : "main.js",
+  "icons" : [ {
+    "path" : "images/pluginIcon1.png",
+    "width" : 48,
+    "height" : 48
+  }, {
+    "path" : "images/pluginIcon2.png",
+    "width" : 96,
+    "height" : 96
+  }, {
+    "path" : "images/pluginIcon3.png",
+    "width" : 144,
+    "height" : 144
+  }, {
+    "path" : "images/pluginIcon4.png",
+    "width" : 192,
+    "height" : 192
+  } ],
+  "version" : "1.0.0",
+  "releaseNotes" : "1.0.0: Initial Release.",
+  "name" : "Regexp Rename",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "13.0"
+  },
+  "id" : "6ac3d235",
+  "uiEntryPoints" : [ {
+    "label" : "Regexp Rename",
+    "type" : "menu",
+    "commandId" : "regexpRename"
+  } ]
+}

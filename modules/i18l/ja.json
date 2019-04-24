@@ -1,0 +1,9 @@
+{
+  "REGEX_RENAME_TITLE": "Regexp Rename",
+  "REGEX_RENAME_LABEL_FIND": "検索:",
+  "REGEX_RENAME_LABEL_REPLACE": "置換:",
+  "REGEX_RENAME_LABEL_GLOBAL": "グローバルマッチ",
+  "REGEX_RENAME_LABEL_IGNORE": "大小文字を区別しない",
+  "ALERT_NO_SELECTION_TITLE": "オブジェクトが選択されていません。",
+  "ALERT_NO_SELECTION_BODY": "オブジェクトを選択してください。"
+}
